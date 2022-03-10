@@ -132,9 +132,7 @@
             <li class="nav-item">
               <a class="nav-link" href="#hs" target="new">Hospitals</a>
             </li>
-            <li class="nav-item book d-flex align-items-center">
-              <a class="nav-link"  href="#" target="new">Weather</a>
-            </li>
+            
           </ul>
         </div>
       </div>
