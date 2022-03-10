@@ -450,7 +450,7 @@ header button a {
     background-image: url('../imgs/pic2.jpg')
 }
 .gallery .pic-five {
-    background-image: url('../imgs/pic5.jpg')
+    background-image: url('../imgs/weather-logo.png')
 }
 .gallery .pic-six {
     background-image: url('../imgs/Hospital.jpg')
@@ -462,6 +462,10 @@ header button a {
 .gallery .pic-eight {
     background-image: url('../imgs/pk.jpg') ;
 }
+
+/* .gallery .pic-nine {
+    background-image: url('../ imgs/weather-logo.png');
+} */
 
 /* slider */
 

@@ -1,14 +1,14 @@
 <?php
 include 'connection.php';
 $name=$_POST['name'];
-$phnumber=$_POST['phonenumber'];
+$phoneno=$_POST['phoneno'];
 $email=$_POST['email'];
 $aadhar=$_POST['aadhar'];
-$voterid=$_POST['voterid'];
-$querry="insert into booking values('$name','$phnumber','$email','$aadhar','$voterid')";
+$noofpassengers=$_POST['noofpassengers'];
+$querry="insert into booking values('$name','$phoneno','$email','$aadhar','$noofpassengers')";
 mysqli_query($conn,$querry);
-// header("Location: ../index.html");
 
+// $_SESSION()
 
 
 ?>

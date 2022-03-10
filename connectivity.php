@@ -43,7 +43,14 @@ else{
       $stmt = $conn->prepare($INSERT);
       $stmt->bind_param("ssss", $name,$email,$phoneno,$feedback);
       $stmt->execute();
-      echo "New record inserted sucessfully";
+
+      function Redirect($url, $permanent = false)
+    {
+        header('Location: ' . $url, true, $permanent ? 301 : 302);
+    
+        exit();
+    }
+    Redirect('index.php', false);
      } else {
       echo "Someone already register using this email";
      }

@@ -96,8 +96,8 @@
                 Places
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="#" target="new">Auli</a>
-                <a class="dropdown-item" href="#">Chopta</a>
+                <a class="dropdown-item" href="weather.html" target="new">Auli</a>
+                <a class="dropdown-item" href="temples.html">Chopta</a>
                 <a class="dropdown-item" href="#">Nainital</a>
                 <a class="dropdown-item" href="#">Mussoorie</a>
                 <a class="dropdown-item" href="#">Chakrata</a>
@@ -133,7 +133,7 @@
               <a class="nav-link" href="#hs" target="new">Hospitals</a>
             </li>
             <li class="nav-item book d-flex align-items-center">
-              <a class="nav-link"  href="booking.html" target="new">book now</a>
+              <a class="nav-link"  href="#" target="new">Weather</a>
             </li>
           </ul>
         </div>
@@ -153,6 +153,7 @@
           <div
             class="col-lg-4 col-12 lobster-font-family d-flex align-items-center"
           >
+          
           <h1 style="color:blanchedalmond;">Explore the world of beauty <br>-Uttarakhand!</h1>
             <button><a href="https://www.google.com/maps/place/Uttarakhand/data=!4m2!3m1!1s0x3909dcc202279c09:0x7c43b63689cc005?sa=X&ved=2ahUKEwjWj-S1uZj2AhUdzTgGHeEFBrgQ8gF6BAgSEAE" target="new">View map of utharkhand</a></button>
           </div>
@@ -238,10 +239,10 @@
     </div>
     <div class="gallery lobster-font-family" id="blog">
       <div class="container">
-        <h2 class="text-calitalize text-center">Our gallery</h2>
+        <h2 class="text-calitalize text-center">Our gallery and Services</h2>
         <div class="row">
           <div class="col-lg-4 col-md-6 col-12">
-            <div class="pic-one"><h4>Relaxed swimming</h4>
+            <div class="pic-one"><h4><a href="https://www.euttaranchal.com/tourism-theme/waterfalls-68.php">Water-falls</a></h4>
             </div>
             <div class="pic-two"><h4><a href="https://www.tripadvisor.com/HotelsList-Uttarakhand-Quiet-Resorts-zfp809966.html">Spacious Accommodtion</a></h4></div>
             <div class="pic-seven"><h4><a href="https://www.olacabs.com/fares/dehradun/toll_details"><br><br><br>Cabs</a></h4></div>
@@ -253,12 +254,13 @@
           </div>
           <div class="col-lg-4 col-md-6 col-12">
             <div class="pic-four"><h4><a href="https://www.tripadvisor.com/Restaurants-g297686-Uttarakhand.html">Romantic dinner</a></h4></div>
-            <div class="pic-five"><h4>Apa & Wellness</h4></div>
+            <div class="pic-five"><h4><a href="weather.html">Weather</a></h4></div>
               <div  id="hs" class="pic-six"><h4><a href="https://www.google.com/maps/d/u/0/edit?mid=1lAJ3bThm_B6p713kbXDBlMzv7ydjcM0h&usp=sharing">Hospitals</a></h4>
           </div>
         </div>
       </div>
     </div>
+    
     <div class="contact main-font-family text-center">
       <div class="container">
         <h2 id="contact">Get in touch</h2>
