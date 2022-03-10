@@ -136,13 +136,6 @@
             <li class="nav-item">
               <a class="nav-link" href="#hs" target="new">Hospitals</a>
             </li>
-<<<<<<< HEAD
-            
-=======
-            <li class="nav-item book d-flex align-items-center">
-              <a class="nav-link"  href="#" target="new">Weather</a>
-            </li>
->>>>>>> 928c958717e5fecdfaf635c27041f4d15557b7ef
           </ul>
         </div>
       </div>
