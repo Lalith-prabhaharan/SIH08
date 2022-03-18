@@ -105,10 +105,6 @@
                 <a class="dropdown-item" href="#">Rishikesh</a>
                  <a class="dropdown-item" href="#">Kedarnath</a> 
                 <a class="dropdown-item" href="#">Almora</a>
-<<<<<<< HEAD
-=======
-                
->>>>>>> 928c958717e5fecdfaf635c27041f4d15557b7ef
                 <a
                 class="nav-link dropdown-toggle"
                 href="#"
