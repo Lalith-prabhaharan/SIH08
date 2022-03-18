@@ -3,15 +3,15 @@
 datas = [
   {
     id: 1,
-    name: "Hotel Ganga Forest View",
-    location: "Rishikesh",
-    img: "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/227261690.jpg?k=23d595d0c03d11b0611e4095988e9fee3fbe30a225a5af30e0bc0eb17eedf37d&o=&hp=1",
+    name: "Blue Poppy Resort",
+    location: "Auli",
+    img: "https://www.tripadvisor.in/Hotel_Review-g1209425-d13281062-Reviews-Blue_Poppy_Resort-Auli_Chamoli_District_Uttarakhand.html",
     reviews: 9,
-    price: 4000,
+    price: 5000,
     description:
-      " Featuring a shared lounge, garden and views of lake, Hotel Ganga Forest View is located in Rishīkesh, 1.7 miles from Triveni Ghat.Beautiful and peaceful location Management and staff were very",
+      " Blue Poppy resorts in Auli has 24 wooden huts with modern facilities. The Blue poppy resort is located as most beautiful location in Auli. You can visit anytime during the year and you will be greeted with different type of landscapes according to the season of visit. You can see clouds in monsoon season, snow slopes in winter season and clear peaks in summer season. All the huts in the resort provide you a 180 degree view of the higher peaks like Hathi, Ghoda, Palki and Nanda Devi.",
     rating: 9.1,
-    totalreviews: 186,
+    totalreviews: 367,
   },
 
   {
