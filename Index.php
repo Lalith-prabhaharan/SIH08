@@ -105,6 +105,10 @@
                 <a class="dropdown-item" href="#">Rishikesh</a>
                  <a class="dropdown-item" href="#">Kedarnath</a> 
                 <a class="dropdown-item" href="#">Almora</a>
+<<<<<<< HEAD
+=======
+                
+>>>>>>> 53c147c73e492f0cf38e48fe40997db45c34e05b
                 <a
                 class="nav-link dropdown-toggle"
                 href="#"
@@ -190,9 +194,9 @@
       <div class="st-rec"></div>
       <div class="rd-rec"></div>
     </header>
-
-    <div class="about lobster-font-family">
-      <div class="container">
+   
+    <div class="about lobster-font-family booknow">
+      <div class="container ">
         <h2 class="text-center text-capitalize">About temples in utharkhand</h2>
         <img src="imgs/shape.png" />
         <div class="row">
@@ -205,7 +209,7 @@
                Temples have an important place in all religions, and people go there to seek help and guidance from God.
                 To strengthen your belief, you can go through our collection of temple quotes.
             </p>
-            <button><a href="temples.html" target="new">View Temples</a></button>
+            <button><a id="bok" href="temples.html" target="new">View Temples</a></button>
           </div>
           
           <div class="col-lg-6 col-12">
@@ -213,10 +217,24 @@
           </div>
         </div>
         <h2 class="text-capitalize" id="room">rooms & suits</h2>
+        <div class="place">
+          <ul class="textt">
+            <h1>Places</h1>
+            <li><a href="places/almora.html" class="plc-link">Almora</a></li>
+            <li><a href="places/Auli.html" class="plc-link">Auli</a></li>
+            <li><a href="places/almora.html" class="plc-link">Chakrata</a></li>
+            <li><a href="places/almora.html" class="plc-link">Chopta</a></li>
+            <li><a href="places/almora.html" class="plc-link">Kedarnath</a></li>
+            <li><a href="places/almora.html" class="plc-link">Mussoorie</a></li>
+            <li><a href="places/almora.html" class="plc-link">Nainital</a></li>
+            <li><a href="places/almora.html" class="plc-link">Rishikesh</a></li>
+          </ul>
+        </div>
         <div class="row">
           <div class="col-lg-4 col-12">
             <div class="img"></div>
           </div>
+         
           <div class="col-lg-8 col-12">
             <div class="block">
               <div>
@@ -225,8 +243,8 @@
                 <p>
                   We Provide the best Rooms that's suitable for you at the affordable cost.<br>We direct you to the (booking.com) to book the rooms at different places in uttarakhand.
                 </p>
-                <button>
-                  <a href="booking.html" target="new" class="text-capitalize">Book Now</a>
+                <button  class="bookkk">
+                  <a href="#bok" target="" class="text-capitalize">Book Now</a>
                 </button>
               </div>
             </div>
@@ -234,6 +252,7 @@
         </div>
       </div>
     </div>
+   
     <div class="gallery lobster-font-family" id="blog">
       <div class="container">
         <h2 class="text-calitalize text-center">Our gallery and Services</h2>
